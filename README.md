@@ -1,3 +1,5 @@
 # hello-world
 Just another repository
-初めてのGithub
+
+#2016-4-16(Sun)
+ソースツリーからのコミット
